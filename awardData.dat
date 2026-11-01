@@ -1,37 +1,4 @@
 {
-<<<<<<< HEAD
-    "CS3217":{
-        "Title":"Software Engineering on Modern Application Platforms",
-        "Instructor":"Dr. Leong Wai Kay",
-        "PrizeCount":0,
-        "IsGraduate":false,
-        "HM":true,
-        "AwardingTitle":"CS3217 Software Engineering on Modern Application Platforms (Chair: Dr. Leong Wai Kay)"
-    },
-    "CS3247":{
-        "Title":"Game Development",
-        "Instructor":"A\/Prof. Bhojan Anand",
-        "PrizeCount":3,
-        "IsGraduate":false,
-        "HM":false,
-        "AwardingTitle":"CS3247 Game Development (Chair: A\/Prof. Bhojan Anand)"
-    },
-    "CS4240":{
-        "Title":"Interaction Design for Virtual and Augmented Reality",
-        "Instructor":"A\/Prof. Bhojan Anand",
-        "PrizeCount":2,
-        "IsGraduate":false,
-        "HM":false,
-        "AwardingTitle":"CS4240 Interaction Design for Virtual and Augmented Reality (Chair: A\/Prof. Bhojan Anand)"
-    },
-    "CS4248":{
-        "Title":"Natural Language Processing",
-        "Instructor":"A\/Prof. Kan Min-Yen, Dr. Christian Von Der Weth",
-        "PrizeCount":3,
-        "IsGraduate":false,
-        "HM":false,
-        "AwardingTitle":"CS4248 Natural Language Processing (Chair: A\/Prof. Kan Min-Yen, Dr. Christian Von Der Weth)"
-=======
     "CP4285":{
         "Title":"Modern Recommendation Systems",
         "Instructor":"A\/Prof. Kan Min-Yen",
@@ -55,7 +22,6 @@
         "IsGraduate":false,
         "HM":false,
         "AwardingTitle":"CS4350 Game Development Project (Chair: A\/Prof. Bhojan Anand)"
->>>>>>> ae70750 (dabnfd)
     },
     "CS5224":{
         "Title":"Cloud Computing",
@@ -66,37 +32,12 @@
         "AwardingTitle":"CS5224 Cloud Computing (Chair: A\/Prof. Anandha Gopalan)"
     },
     "FYP-IP":{
-<<<<<<< HEAD
-        "Title":"Final Year Project and Independent Project",
-        "Instructor":"Dr. Prabhu NATARAJAN",
-        "PrizeCount":3,
-        "IsGraduate":false,
-        "HM":false,
-        "AwardingTitle":"FYP-IP Final Year Project and Independent Project (Chair: Dr. Prabhu NATARAJAN)"
-    },
-    "IS4151":{
-        "Title":"AIoT Solutions and Development",
-        "Instructor":"A\/Prof. Tan Wee Kek",
-        "PrizeCount":1,
-        "IsGraduate":false,
-        "HM":false,
-        "AwardingTitle":"IS4151 AIoT Solutions and Development (Chair: A\/Prof. Tan Wee Kek)"
-    },
-    "IS5126":{
-        "Title":"Hands-on with Applied Analytics",
-        "Instructor":"Dr. Prakash Chandra Sukhwal",
-        "PrizeCount":0,
-        "IsGraduate":true,
-        "HM":true,
-        "AwardingTitle":"IS5126 Hands-on with Applied Analytics (Chair: Dr. Prakash Chandra Sukhwal)"
-=======
         "Title":"Final Year Project and Independet Project",
         "Instructor":"A\/Prof. Martin Henz, A\/Prof. Bhojan Anand",
         "PrizeCount":1,
         "IsGraduate":false,
         "HM":false,
         "AwardingTitle":"FYP-IP Final Year Project and Independet Project (Chair: A\/Prof. Martin Henz, A\/Prof. Bhojan Anand)"
->>>>>>> ae70750 (dabnfd)
     },
     "IT5007":{
         "Title":"Software Engineering on Application Architecture",
@@ -109,24 +50,9 @@
     "MComp":{
         "Title":"MComp Thesis",
         "Instructor":"Dr. Prasanna Karthik Vairam",
-<<<<<<< HEAD
-        "PrizeCount":1,
-        "IsGraduate":true,
-        "HM":false,
-        "AwardingTitle":"MComp MComp Thesis (Chair: Dr. Prasanna Karthik Vairam)"
-    },
-    "CP3108":{
-        "Title":"Independent Work",
-        "Instructor":"A\/Prof. Martin Henz, Dr. Boyd Anderson and Dr. Sanka Rasnayaka",
-        "PrizeCount":3,
-        "IsGraduate":false,
-        "HM":false,
-        "AwardingTitle":"CP3108 Independent Work (Chair: A\/Prof. Martin Henz, Dr. Boyd Anderson and Dr. Sanka Rasnayaka)"
-=======
         "PrizeCount":3,
         "IsGraduate":true,
         "HM":false,
         "AwardingTitle":"MComp MComp Thesis (Chair: Dr. Prasanna Karthik Vairam)"
->>>>>>> ae70750 (dabnfd)
     }
 }
