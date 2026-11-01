@@ -2,10 +2,10 @@
     "CP4285-1": {
         "name": "T01",
         "members": [
+            "William Jacob Wijaya",
             "Xiong Jun Bo",
             "Shi Ziyuan",
-            "Toh Yi Fan",
-            "William Jacob Wijaya"
+            "Toh Yi Fan"
         ],
         "videoLink": "",
         "posterLink": ""
@@ -24,9 +24,9 @@
         "name": "T03",
         "members": [
             "Brendan Ng Jingjie",
-            "Zhang Ming Jun",
+            "Wee Yen Zhe",
             "Lin Hong Yi",
-            "Wee Yen Zhe"
+            "Zhang Ming Jun"
         ],
         "videoLink": "",
         "posterLink": ""
@@ -34,9 +34,9 @@
     "CP4285-4": {
         "name": "T04",
         "members": [
-            "Patchandi Yugan Kumar",
-            "Liao Kevin",
             "Sood Tapan",
+            "Liao Kevin",
+            "Patchandi Yugan Kumar",
             "Ang Jing Heng, Marcus"
         ],
         "videoLink": "",
@@ -45,9 +45,9 @@
     "CP4285-5": {
         "name": "T05",
         "members": [
-            "V Varsha",
+            "Poh Yu Wen",
             "Chan Wei Jie Dylan",
-            "Poh Yu Wen"
+            "V Varsha"
         ],
         "videoLink": "",
         "posterLink": ""
@@ -55,8 +55,8 @@
     "CP4285-6": {
         "name": "T06",
         "members": [
-            "Yang Yatong",
             "Chen Jianxi",
+            "Yang Yatong",
             "Choi Minseok"
         ],
         "videoLink": "",
@@ -75,10 +75,10 @@
     "CS3216-1": {
         "name": "Pocket Adventures",
         "members": [
-            "Damian Liew Cho Xiang",
             "Hon Yi Hao",
             "Bhavina Sathish Kumar",
-            "Zhang Li Kevin"
+            "Zhang Li Kevin",
+            "Damian Liew Cho Xiang"
         ],
         "videoLink": "https://youtube.com/watch?v=VF4KtwkR5fw",
         "posterLink": ""
@@ -86,10 +86,10 @@
     "CS3216-2": {
         "name": "HillGPX",
         "members": [
-            "Ravichandran Sanjeev",
-            "Lim Sheng Rong, Madrid",
             "Sahej Agarwal",
-            "Subramanian Karthikeyan"
+            "Ravichandran Sanjeev",
+            "Subramanian Karthikeyan",
+            "Lim Sheng Rong, Madrid"
         ],
         "videoLink": "https://youtube.com/shorts/XK-dgFjuVM4?feature=share",
         "posterLink": "https://hillgpx.com/media/steps-poster.png"
@@ -98,8 +98,8 @@
         "name": "Linguini",
         "members": [
             "Govindaraj Roshni Daksha",
-            "Jain Ananya",
             "Brian Sebastian Hu",
+            "Jain Ananya",
             "Garg Maahir Rajesh"
         ],
         "videoLink": "https://www.youtube.com/watch?v=ozalzJPkdQU",
@@ -108,10 +108,10 @@
     "CS3216-4": {
         "name": "Invoice Checker",
         "members": [
+            "Nguyen Anh Duc",
             "Ng Chen Meng",
-            "Kalent Chia Chang Rong",
             "Nguyen Dinh Nam",
-            "Nguyen Anh Duc"
+            "Kalent Chia Chang Rong"
         ],
         "videoLink": "",
         "posterLink": ""
@@ -119,10 +119,10 @@
     "CS3216-5": {
         "name": "99.99%",
         "members": [
-            "Hoo Di Heng",
             "Zhang Zi Yao",
             "Ang Qi Jun",
-            "Hoang Trung Hai"
+            "Hoang Trung Hai",
+            "Hoo Di Heng"
         ],
         "videoLink": "https://youtu.be/g9RYyEhZKcE",
         "posterLink": "https://i.ibb.co/HfQryRgF/updated.jpg"
@@ -130,8 +130,8 @@
     "CS3216-6": {
         "name": "Presentable",
         "members": [
-            "Huang Kaijuan Joulene",
             "Tsai Chi An",
+            "Huang Kaijuan Joulene",
             "Ng Yong Jin, Rooney",
             "Brandon Lim"
         ],
@@ -141,9 +141,9 @@
     "CS3216-7": {
         "name": "AISUS",
         "members": [
+            "Chen Jianxi",
             "Kerk Tai Heng",
-            "Dinh Duy Linh Dan",
-            "Chen Jianxi"
+            "Dinh Duy Linh Dan"
         ],
         "videoLink": "",
         "posterLink": "https://dan-public-drive-520070583275-ap-southeast-1-an.s3.ap-southeast-1.amazonaws.com/project-poster-image.jpg"
@@ -161,10 +161,10 @@
     "CS4350-1": {
         "name": "Project Group 1 - Zero Clearance",
         "members": [
-            "Lee Ze Hao",
             "Malhotra Arnav",
             "Li Haoquan",
-            "Quek Yew Wei"
+            "Quek Yew Wei",
+            "Lee Ze Hao"
         ],
         "videoLink": "",
         "posterLink": ""
@@ -172,11 +172,11 @@
     "CS4350-2": {
         "name": "Project Group 2 - Let Me Cook",
         "members": [
+            "Soon Weng Foon Timothy",
+            "Lee Han Sheng Darren",
             "Lee Chen Xuan",
             "Ong Gin Kai Leonard",
-            "Soon Weng Foon Timothy",
-            "Aaron Sim",
-            "Lee Han Sheng Darren"
+            "Aaron Sim"
         ],
         "videoLink": "",
         "posterLink": ""
@@ -185,10 +185,10 @@
         "name": "Project Group 3 - Unwound",
         "members": [
             "Lim Rui Yuan",
-            "Ulrico Nolan Orlando",
-            "Mahmud Zayd",
+            "Phua Yixun, Celeste",
             "James Chin Jia Jun",
-            "Phua Yixun, Celeste"
+            "Mahmud Zayd",
+            "Ulrico Nolan Orlando"
         ],
         "videoLink": "",
         "posterLink": ""
@@ -196,11 +196,11 @@
     "CS4350-4": {
         "name": "Project Group 4 - Beesnus",
         "members": [
-            "Tang Xiao Di Wendy",
-            "Li Feifei",
-            "Lu Bolin",
             "Amos Chee Tian Ee",
-            "Lee Jie Hui"
+            "Li Feifei",
+            "Lee Jie Hui",
+            "Tang Xiao Di Wendy",
+            "Lu Bolin"
         ],
         "videoLink": "",
         "posterLink": ""
@@ -208,12 +208,12 @@
     "CS5224-1": {
         "name": "SeatRelay: Unified Registration and Timed-Hold Seat Relay for Multi-Session Workshops",
         "members": [
-            "Lin Jie",
             "Liang Zihan",
-            "Chen Yang",
+            "Zhang Tianyi",
             "Zhu Gengyu",
-            "Li Zongze",
-            "Zhang Tianyi"
+            "Lin Jie",
+            "Chen Yang",
+            "Li Zongze"
         ],
         "videoLink": "",
         "posterLink": ""
@@ -221,11 +221,11 @@
     "CS5224-2": {
         "name": "TeleLink Health: A Platform for Creating and Managing Online Clinics",
         "members": [
+            "Putrevu Mihir Niyogi",
+            "Chan Yong Hong Nigel",
             "Ong Wei En",
             "Loh Ze Qing, Norbert",
-            "Putrevu Mihir Niyogi",
-            "Aw Jean Leng Adrian",
-            "Chan Yong Hong Nigel"
+            "Aw Jean Leng Adrian"
         ],
         "videoLink": "",
         "posterLink": ""
@@ -243,9 +243,9 @@
     "CS5224-4": {
         "name": "NeuroLens",
         "members": [
-            "Low Hoa Meng, Kelvin",
             "Chong Xin Wei",
             "Tan Zhi Hao Brandon",
+            "Low Hoa Meng, Kelvin",
             "Chan Wei Jie Dylan",
             "Lum Zi Yuan Joshua"
         ],
@@ -288,8 +288,8 @@
     "IT5007-1": {
         "name": "Study Flow",
         "members": [
-            "Qi Ruixuan",
-            "Yu Sumin"
+            "Yu Sumin",
+            "Qi Ruixuan"
         ],
         "videoLink": "",
         "posterLink": ""
@@ -297,9 +297,9 @@
     "IT5007-2": {
         "name": "Smart Pathology Assistant",
         "members": [
-            "Wang Hui",
             "Monzon Eric Stanley Ii Dawinan",
-            "Xian Jianbo"
+            "Xian Jianbo",
+            "Wang Hui"
         ],
         "videoLink": "",
         "posterLink": ""
@@ -307,8 +307,8 @@
     "IT5007-3": {
         "name": "SignalLost",
         "members": [
-            "Ji Fenghui",
-            "He Yu"
+            "He Yu",
+            "Ji Fenghui"
         ],
         "videoLink": "",
         "posterLink": ""
@@ -316,8 +316,8 @@
     "IT5007-4": {
         "name": "AI Technical Interview Practice Platform",
         "members": [
-            "Natalie Crystal Lee Jia Li",
             "Ng Hui Ping",
+            "Natalie Crystal Lee Jia Li",
             "Soh Yong Sheng"
         ],
         "videoLink": "",
@@ -353,9 +353,9 @@
     "IT5007-8": {
         "name": "FRIDGE : Food Rescue, Inventory, Distribution & Green Exchange",
         "members": [
-            "Zhang Yijie",
+            "Liu Qinjun",
             "Chen Sitong",
-            "Liu Qinjun"
+            "Zhang Yijie"
         ],
         "videoLink": "",
         "posterLink": ""
@@ -363,9 +363,9 @@
     "IT5007-9": {
         "name": "Weather Aware Event Planner",
         "members": [
-            "Jeganath Yoganandam Pavithra",
             "Zackarias Chia Yue Lin",
-            "Zhu Xueying"
+            "Zhu Xueying",
+            "Jeganath Yoganandam Pavithra"
         ],
         "videoLink": "",
         "posterLink": ""
