@@ -9,7 +9,11 @@ import json
 
 ## Getting the API data from UVENTS
 print("Downloading data from UVENTS...")
+<<<<<<< HEAD
 theJSON = requests.get("https://uvents.nus.edu.sg/api/event/28th-steps/moduleTracks").json()
+=======
+theJSON = requests.get("https://uvents.nus.edu.sg/api/event/29th-steps/moduleTracks").json()
+>>>>>>> ae70750 (dabnfd)
 print("Downloading done.")
 
 ## Opening the neccessary files
